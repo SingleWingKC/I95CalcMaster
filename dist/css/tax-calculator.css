@@ -33,6 +33,10 @@ h1, h2, h3, h4, h5, h6 { font-family: "sofia-pro",sans-serif; }
     margin-bottom: 20px;
     margin-top: 10px;
 }
+#top h6 {
+    font-size: 30px;
+    font-weight: 600;
+}
 #ruc-calc-form h4 {
     margin-bottom: 3px;
 }
