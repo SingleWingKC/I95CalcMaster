@@ -963,7 +963,7 @@ function IsPostiveInteger(n) {
 
 function hideTotal() {
   $("#totalPrice").html(
-    "<div class='table-responsive-js'><table class='table table-striped table-bordered table-hover'><tbody><tr><td colspan='3'><h4>Please enter your miles driven and your vehicle's MPG (MPG must be greater than 19) in order to see your results.</h4></td></tr></tbody></table></div>"
+    "<div class='table-responsive-js'><table class='table table-striped table-bordered table-hover'><tbody><tr><td colspan='3'><h4>Please enter your miles driven and your vehicle's MPG in order to see your results.</h4></td></tr></tbody></table></div>"
   );
   $("#totalPriceEVtoggle").html("");
   $("#totalPriceEVcompare").html("");
